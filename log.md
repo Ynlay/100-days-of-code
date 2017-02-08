@@ -130,6 +130,6 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 ### Day 25: February 8
 
 **Today's Progress**: Got github up to speed with my 100DaysOfCode challenge,
-					  forked the repository and worked on my own log.
+					  forked the repository and worked on my own log. Studied some more Java.
 					  
-						**DAYS SKIPPED SO FAR : 11**
+				###**DAYS SKIPPED SO FAR : 11**
