@@ -132,4 +132,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 **Today's Progress**: Got github up to speed with my 100DaysOfCode challenge,
 					  forked the repository and worked on my own log. Studied some more Java.
 					  
+### Day 26: February 9
+
+**Today's Progress**: Made some progress on the local weather app for freeCodeCamp, studied about geolocation at w3schools.
+					  
 ### DAYS SKIPPED SO FAR : 11
