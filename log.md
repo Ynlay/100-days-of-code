@@ -135,5 +135,9 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 ### Day 26: February 9
 
 **Today's Progress**: Made some progress on the local weather app for freeCodeCamp, studied about geolocation at w3schools.
+
+### Day 27: February 10
+
+**Today's Progress**: Created a new project in visual studio for a ReactionTime app. Almost done.
 					  
 ### DAYS SKIPPED SO FAR : 11
