@@ -139,5 +139,10 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 ### Day 27: February 10
 
 **Today's Progress**: Created a new project in visual studio for a ReactionTime app. Almost done.
-					  
+
+### Day 28: February 11
+
+**Today's Progress**: Continued on my learning plan for UWP and completed the GoNuts Challenge.
+		      Picture : https://twitter.com/Gazharan_/status/830504531372957697
+		      
 ### DAYS SKIPPED SO FAR : 11
