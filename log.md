@@ -149,6 +149,6 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Continued on my UWP, added functionality to all 4 tabs + CalendarDatePicker.
 	              GoNuts challenge is now complete.
-		      Pictures : https://twitter.com/Gazharan_/status/830894316323274754
+		      Pictures : https://twitter.com/Gazharan_/status/830898209685897216
 		      
 ### DAYS SKIPPED SO FAR : 11
