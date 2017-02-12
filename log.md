@@ -142,7 +142,12 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 ### Day 28: February 11
 
-**Today's Progress**: Continued on my learning plan for UWP and completed the GoNuts Challenge.
+**Today's Progress**: Continued on my learning plan for UWP and started the GoNuts Challenge.
 		      Picture : https://twitter.com/Gazharan_/status/830504531372957697
+		      
+### Day 29: February 12
+
+**Today's Progress**: Continued on my UWP, added functionality to all 4 tabs + CalendarDatePicker
+		      Pictures : https://twitter.com/Gazharan_/status/830894316323274754
 		      
 ### DAYS SKIPPED SO FAR : 11
