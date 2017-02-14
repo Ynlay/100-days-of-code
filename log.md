@@ -138,7 +138,7 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 ### Day 27: February 10
 
-**Today's Progress**: Created a new project in visual studio for a ReactionTime app. Almost done.
+**Today's Progress**: Created a new project in visual studio for a ReactionTime app.
 
 ### Day 28: February 11
 
