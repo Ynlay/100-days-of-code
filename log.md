@@ -159,7 +159,6 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 ### Day 31 : February 14
 
-**Today's Progress**: Made a couple of changes and made some more progress on my reactionTimer UWP. Still need to add
-		      the scoring functionality.
+**Today's Progress**: Made some more progress on my reactionTimer UWP. Still need to add the scoring functionality.
 
 ### DAYS SKIPPED SO FAR : 11
