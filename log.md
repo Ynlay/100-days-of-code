@@ -152,5 +152,9 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 	              GoNuts challenge is now complete.
 		      
 **LINK**: https://twitter.com/Gazharan_/status/830898209685897216
-		      
+		     
+### Day 30 : February 13
+
+**Today's Progress**: Continued on MVA learning courses for UWP. 
+
 ### DAYS SKIPPED SO FAR : 11
