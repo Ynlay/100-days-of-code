@@ -167,4 +167,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **LINK**: https://github.com/gazharan/ReactionTimer
 
+### Day 33: February 16
+
+**Today's Progress**: Started a couple of tutorials on how to create web applications and web APIs.
+
 ### DAYS SKIPPED SO FAR : 11
