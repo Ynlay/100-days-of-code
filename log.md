@@ -171,4 +171,13 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Started a couple of tutorials on how to create web applications and web APIs.
 
+### Day 34: February 17
+
+**Today's Progress**: Studied more about web apps and created my very first web app which calculates the square of a number.
+
+### Day 35: February 18
+
+**Today's Progress**: Started creating a Random Quote Machine web app on visual studio.
+
+
 ### DAYS SKIPPED SO FAR : 11
