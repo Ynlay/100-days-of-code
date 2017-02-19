@@ -179,5 +179,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Started creating a Random Quote Machine web app on visual studio.
 
+### Day 36: February 19
+
+**Today's Progress**: Finished Random Quote Machine web app, hosted on azure, uploaded on github!
 
 ### DAYS SKIPPED SO FAR : 11
