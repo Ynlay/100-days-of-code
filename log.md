@@ -183,4 +183,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Finished Random Quote Machine web app, hosted on azure, uploaded on github!
 
+### Day 37: February 20
+
+**Today's Progress**: Made some progress on the local weather app for freeCodeCamp.
+
 ### DAYS SKIPPED SO FAR : 11
