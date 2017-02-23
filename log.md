@@ -187,4 +187,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Made some progress on the local weather app for freeCodeCamp.
 
-### DAYS SKIPPED SO FAR : 11
+### Day 38: February 22(skipped a day)
+
+**Today's Progress**: Read about OpenWeatherMap API and how to use it for the local weather app for freeCodeCamp.
+
+### DAYS SKIPPED SO FAR : 12
