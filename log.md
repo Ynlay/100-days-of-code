@@ -191,4 +191,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Read about OpenWeatherMap API and how to use it for the local weather app for freeCodeCamp.
 
+### Day 39: February 23
+
+**Today's Progress**: Worked mostly on the local weather app for freeCodeCamp, downloaded ubuntu to get used to the commandline 		      to hopefully start a raspberry pi project.
+
 ### DAYS SKIPPED SO FAR : 12
