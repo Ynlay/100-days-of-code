@@ -195,4 +195,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Worked mostly on the local weather app for freeCodeCamp, downloaded ubuntu to get used to the commandline 		      to hopefully start a raspberry pi project.
 
+### Day 40: February 24
+
+**Today's Progress**: Installed ubuntu on laptop and started learning the command line, downloaded eclipse and java jre and jdk. 		       Worked on local weather app.
+
 ### DAYS SKIPPED SO FAR : 12
