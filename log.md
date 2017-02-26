@@ -199,4 +199,9 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Installed ubuntu on laptop and started learning the command line, downloaded eclipse and java jre and jdk. 		       Worked on local weather app.
 
-### DAYS SKIPPED SO FAR : 12
+### Day 41: February 26(skipped a day)
+
+**Today's Progress**: Completed a couple of algorithm challenges + worked on the local weather app for freeCodeCamp.
+
+### DAYS SKIPPED SO FAR : 13
+
