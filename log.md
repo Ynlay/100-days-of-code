@@ -203,5 +203,9 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Completed a couple of algorithm challenges + worked on the local weather app for freeCodeCamp.
 
+### Day 42: February 27
+
+**Today's Progress**: Started learning about SQL from soloLearn, completed lots of challenges.
+
 ### DAYS SKIPPED SO FAR : 13
 
