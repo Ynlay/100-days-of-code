@@ -207,5 +207,9 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Started learning about SQL from soloLearn, completed lots of challenges.
 
+### Day 43: February 28
+
+**Today's Progress**: Continued with SQL course from soloLearn, getting close to the certificate.
+
 ### DAYS SKIPPED SO FAR : 13
 
