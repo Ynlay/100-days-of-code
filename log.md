@@ -211,5 +211,9 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Continued with SQL course from soloLearn, getting close to the certificate.
 
+### Day 44: March 1
+
+**Today's Progress**: Finished SQL course from soloLearn acquired the certificate!
+
 ### DAYS SKIPPED SO FAR : 13
 
