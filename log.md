@@ -215,5 +215,11 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Finished SQL course from soloLearn acquired the certificate!
 
+### Day 45: March 2
+
+**Today's Progress**: Hosted my web application(random quote machine) on azure (correctly this time), took more time than 			      expected.
+
+**LINK**: http://randomquotemachine20170302104907.azurewebsites.net/Pages/RandomQuoteMachine.aspx
+
 ### DAYS SKIPPED SO FAR : 13
 
