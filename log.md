@@ -221,5 +221,9 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **LINK**: http://randomquotemachine20170302104907.azurewebsites.net/Pages/RandomQuoteMachine.aspx
 
+### Day 46: March 3
+
+**Today's Progress**: Started looking into some game development with java, will only be using eclipse.
+
 ### DAYS SKIPPED SO FAR : 13
 
