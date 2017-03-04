@@ -225,5 +225,9 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Started looking into some game development with java, will only be using eclipse.
 
+### Day 47: March 4
+
+**Today's Progress**: Continued with the game development project in java, added the player and the KeyEvents.
+
 ### DAYS SKIPPED SO FAR : 13
 
