@@ -229,5 +229,10 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Continued with the game development project in java, added the player and the KeyEvents.
 
+### Day 48: March 5
+
+**Today's Progress**: Downloaded retropie for my raspberry pi and downloaded the emulator and the roms for playstation 1 just to 		       understand how it all works. Continued with the game development project in java, the player can 
+		      now fire bullets!
+		      
 ### DAYS SKIPPED SO FAR : 13
 
