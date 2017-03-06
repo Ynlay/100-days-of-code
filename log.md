@@ -233,6 +233,11 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Downloaded retropie for my raspberry pi and downloaded the emulator and the roms for playstation 1 just to 		       understand how it all works. Continued with the game development project in java, the player can 
 		      now fire bullets!
+		    
+### Day 49: March 6
+
+**Today's Progress**: Continued with the game development project in java, added enemies and health as well as a couple of waves
+		      Plus collision detection for the bullets.
 		      
 ### DAYS SKIPPED SO FAR : 13
 
