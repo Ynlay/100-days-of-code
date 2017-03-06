@@ -239,5 +239,7 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 **Today's Progress**: Continued with the game development project in java, added enemies and health as well as a couple of waves
 		      Plus collision detection for the bullets.
 		      
+**LINK**: https://twitter.com/Gazharan_/status/838782464998920193
+
 ### DAYS SKIPPED SO FAR : 13
 
