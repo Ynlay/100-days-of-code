@@ -241,5 +241,10 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 		      
 **LINK**: https://twitter.com/Gazharan_/status/838782464998920193
 
+### Day 50: March 7
+
+**Today's Progress**: Continued with the game development project in java, added player and enemy collision, lives go down
+		      whenever and enemy collides with the player. Added powerups, they randomly appear when you kill an enemy.
+		      
 ### DAYS SKIPPED SO FAR : 13
 
