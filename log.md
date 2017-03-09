@@ -254,5 +254,12 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 		      
 **LINK**: https://twitter.com/Gazharan_/status/839623549753126912
 
+### Day 52: March 9
+
+**Today's Progress**: Continued with the game development project in java, added the GAME OVER screen, the player now actually
+		      dies when his health reaches 0!!
+		      
+**LINK**: https://twitter.com/Gazharan_/status/839979581931196416
+
 ### DAYS SKIPPED SO FAR : 13
 
