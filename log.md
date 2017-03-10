@@ -261,5 +261,9 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 		      
 **LINK**: https://twitter.com/Gazharan_/status/839979581931196416
 
+### Day 53: March 10
+
+**Today's Progress**: Started the JQuery tutorial from SoloLearn and continued working on my Local Weather App for FreeCodeCamp.
+
 ### DAYS SKIPPED SO FAR : 13
 
