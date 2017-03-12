@@ -271,7 +271,7 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **LINK**: http://codepen.io/gazharan/full/ggBBpz/
 
-### Day 55L March 12
+### Day 55: March 12
 
 **Today's Progress**: Studied a little bit on linux commands and continued the JQuery course from SoloLearn.
 
