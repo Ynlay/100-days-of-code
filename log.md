@@ -275,4 +275,4 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Studied a little bit on linux commands and continued the JQuery course from SoloLearn.
 
-### DAYS SKIPPED SO FAR : 13
+### DAYS SKIPPED SO FAR : 14
