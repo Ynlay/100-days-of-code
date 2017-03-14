@@ -275,4 +275,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Studied a little bit on linux commands and continued the JQuery course from SoloLearn.
 
+### Day 56: March 14
+
+**Today's Progress**: Not much coding today, read about threads and a couple of basic linux commands.
+
 ### DAYS SKIPPED SO FAR : 14
