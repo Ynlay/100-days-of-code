@@ -279,4 +279,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Not much coding today, read about threads and a couple of basic linux commands.
 
+### Day 57: March 15
+
+**Today's Progress**: Continued JQuery course from SoloLearn and compiled my first C program in an ubuntu virtual machine. 
+
 ### DAYS SKIPPED SO FAR : 14
