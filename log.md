@@ -283,4 +283,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Continued JQuery course from SoloLearn and compiled my first C program in an ubuntu virtual machine. 
 
+### Day 58: March 16
+
+**Today's Progress**: Continued JQuery course from SoloLearn. JQuery animations are so easy and cool! almost unlocked the 		              certificate!
+
 ### DAYS SKIPPED SO FAR : 14
