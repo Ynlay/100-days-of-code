@@ -287,4 +287,9 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Continued JQuery course from SoloLearn. JQuery animations are so easy and cool! almost unlocked the 		              certificate!
 
+### Day 59: March 17
+
+**Today's Progress**: Read about git and created a java project with it from the command line. Unlocked the JQuery certificate!
+		      Downloaded UML plugin for Eclipse (UMLet).
+		      
 ### DAYS SKIPPED SO FAR : 14
