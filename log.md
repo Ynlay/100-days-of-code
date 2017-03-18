@@ -292,4 +292,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 **Today's Progress**: Read about git and created a java project with it from the command line. Unlocked the JQuery certificate!
 		      Downloaded UML plugin for Eclipse (UMLet).
 		      
+### Day 60: March 18
+
+**Today's Progress**: Downloaded microsoft sql management studio to get familiar with databases and SQL, i already knew the 			      basics of SQL thanks to SoloLearn. Completed a few challenges on javascript from FreeCodeCamp.
+
 ### DAYS SKIPPED SO FAR : 14
