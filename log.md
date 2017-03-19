@@ -296,4 +296,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Downloaded microsoft SQL management studio to get familiar with databases and SQL, i already knew the 			      basics of SQL thanks to SoloLearn. Completed a few challenges on javascript from FreeCodeCamp.
 
+### Day 61: March 19
+
+**Today's Progress**: Worked on wikipedia viewer at codepen.io for FreeCodeCamp. Continued javascript course at SoloLearn.
+
 ### DAYS SKIPPED SO FAR : 14
