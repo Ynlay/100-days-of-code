@@ -300,4 +300,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Worked on wikipedia viewer at codepen.io for FreeCodeCamp. Continued javascript course at SoloLearn.
 
+### Day 62: March 20 
+
+**Today's Progress**: Unlocked the javascript certificate from SoloLearn! Continued working on wikipedia viewer at codepen.io 		              for FreeCodeCamp.
+
 ### DAYS SKIPPED SO FAR : 14
