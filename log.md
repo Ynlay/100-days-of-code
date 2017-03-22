@@ -308,4 +308,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Not much coding today, started babysteps into PHP course from SoloLearn, signed up and looked up 		                 		       organizations for google summer code!
 
+### Day 64: March 22
+
+**Today's Progress**: Continued working on wikipedia viewer for FreeCodeCamp. Solved a couple of javascript challenges.
+
 ### DAYS SKIPPED SO FAR : 14
