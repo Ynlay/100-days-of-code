@@ -312,4 +312,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Continued working on wikipedia viewer for FreeCodeCamp. Solved a couple of javascript challenges.
 
+### Day 65: March 23
+
+**Today's Progress**: Continued php course at SoloLearn. Saw a couple of video challenges at FreeCodeCamp.
+
 ### DAYS SKIPPED SO FAR : 14
