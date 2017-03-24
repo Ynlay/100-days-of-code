@@ -316,4 +316,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Continued php course at SoloLearn. Saw a couple of video challenges at FreeCodeCamp.
 
+### Day 66: March 24
+
+**Today's Progress**: Unlocked PHP certificate at SoloLearn. Started taking a serious look at WordPress.
+
 ### DAYS SKIPPED SO FAR : 14
