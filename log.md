@@ -320,4 +320,9 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Unlocked PHP certificate at SoloLearn. Started taking a serious look at WordPress.
 
+### Day 67: March 25
+
+**Today's Progress**: Not much coding today, however i read a lot about how the internet works, what DNS is and how to setup a
+		      website/blog using wordpress.com and the differences between wordpress.com and wordpress.org
+		      
 ### DAYS SKIPPED SO FAR : 14
