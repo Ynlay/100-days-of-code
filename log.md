@@ -325,4 +325,4 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 **Today's Progress**: Not much coding today, however i read a lot about how the internet works, what DNS is and how to setup a
 		      website/blog using wordpress.com and the differences between wordpress.com and wordpress.org
 		      
-### DAYS SKIPPED SO FAR : 14
+### DAYS SKIPPED SO FAR : 15
