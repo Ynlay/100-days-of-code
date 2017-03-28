@@ -329,4 +329,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Learned more about wordpress and databases, differences between wordpress.com and wordpress.org, 				      downloaded XAMPP. 
 
+### Day 69: March 28
+
+**Today's Progress**: Continued working on wikipedia viewer for freeCodeCamp and started planning for more of my own projects!
+
 ### DAYS SKIPPED SO FAR : 15
