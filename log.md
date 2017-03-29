@@ -333,4 +333,7 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Continued working on wikipedia viewer for freeCodeCamp and started planning for more of my own projects!
 
+### Day 70: March 29
+
+**Today's Progress**: Got wordpress.org to work with XAMPP and created my very first self-hosted, nothing special but tried 			      editting some stuff around to get the hang of it.
 ### DAYS SKIPPED SO FAR : 15
