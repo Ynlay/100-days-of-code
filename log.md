@@ -336,4 +336,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 ### Day 70: March 29
 
 **Today's Progress**: Got wordpress.org to work with XAMPP and created my very first self-hosted, nothing special but tried 			      editting some stuff around to get the hang of it.
+
+### Day 71: March 30
+
+**Today's Progress**: Solved javascript challenges at FreeCodeCamp and played around with SQL Server Management Studio.
 ### DAYS SKIPPED SO FAR : 15
