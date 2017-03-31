@@ -340,4 +340,5 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 ### Day 71: March 30
 
 **Today's Progress**: Solved javascript challenges at FreeCodeCamp and played around with SQL Server Management Studio.
-### DAYS SKIPPED SO FAR : 15
+
+### DAYS SKIPPED SO FAR : 16
