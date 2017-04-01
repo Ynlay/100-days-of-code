@@ -341,4 +341,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Solved javascript challenges at FreeCodeCamp and played around with SQL Server Management Studio.
 
+### Day 72: April 1(skipped a day)
+
+**Today's Progress**: Learned about wordpress SEO (Search Engine Optimization) and read about how HDDs and SSDs work. Continued 		      algorithm challenges at FreeCodeCamp.
+
 ### DAYS SKIPPED SO FAR : 16
