@@ -345,4 +345,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Learned about wordpress SEO (Search Engine Optimization) and read about how HDDs and SSDs work. Continued 		      algorithm challenges at FreeCodeCamp.
 
+### Day 73: April 2
+
+**Today's Progress**: Visited HackerRank after a long time and completed quite a few SQL challenges to solidify it.
+
 ### DAYS SKIPPED SO FAR : 16
