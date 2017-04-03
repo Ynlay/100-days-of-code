@@ -349,4 +349,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Visited HackerRank after a long time and completed quite a few SQL challenges to solidify it.
 
+### Day 74: April 3
+
+**Today's Progress**: Learned more about useful eclipse plugins, continued SQL challenges at HackerRank and enrolled on 			      wordpress tutorials in Udemy.
+
 ### DAYS SKIPPED SO FAR : 16
