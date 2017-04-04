@@ -353,4 +353,7 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Learned more about useful eclipse plugins, continued SQL challenges at HackerRank and enrolled on 			      wordpress tutorials in Udemy.
 
+### Day 75: April 4
+
+**Today's Progress**: Completed all "basic select" challenges for SQL at HackerRank and continued intermediate javascript 		              algorithm challenges at FreeCodeCamp
 ### DAYS SKIPPED SO FAR : 16
