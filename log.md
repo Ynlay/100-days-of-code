@@ -356,4 +356,9 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 ### Day 75: April 4
 
 **Today's Progress**: Completed all "basic select" challenges for SQL at HackerRank and continued intermediate javascript 		              algorithm challenges at FreeCodeCamp
+
+### Day 76: April 5
+
+**Today's Progress**: Studied some more C, got to learn a lot of new things, also used codeblocks after a long time.
+
 ### DAYS SKIPPED SO FAR : 16
