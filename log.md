@@ -361,4 +361,4 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Studied some more C, got to learn a lot of new things, also used codeblocks after a long time.
 
-### DAYS SKIPPED SO FAR : 16
+### DAYS SKIPPED SO FAR : 17
