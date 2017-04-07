@@ -361,4 +361,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Studied some more C, got to learn a lot of new things, also used codeblocks after a long time.
 
+### Day 77: April 7(skipped a day)
+
+**Today's Progress**: Found a Keylogger C++ tutorial on Udemy which sounded really interesting to me, learned a lot of new 			      things!
+
 ### DAYS SKIPPED SO FAR : 17
