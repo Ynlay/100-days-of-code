@@ -365,4 +365,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Found a Keylogger C++ tutorial on Udemy which sounded really interesting to me, learned a lot of new 			      things!
 
+### Day 78: April 8
+
+**Today's Progress**: Continued the Keylogger C++ tutorial on udemy and completed a few javascript challenges on FreeCodeCamp.
+
 ### DAYS SKIPPED SO FAR : 17
