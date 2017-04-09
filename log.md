@@ -369,4 +369,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Continued the Keylogger C++ tutorial on udemy and completed a few javascript challenges on FreeCodeCamp.
 
+### Day 79: April 9
+
+**Today's Progress**: Completed 7 intermediate javascript algorithm challenges at FreeCodeCamp.
+
 ### DAYS SKIPPED SO FAR : 17
