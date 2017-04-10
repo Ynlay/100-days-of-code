@@ -373,4 +373,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Completed 7 intermediate javascript algorithm challenges at FreeCodeCamp.
 
+### Day 80: April 10
+
+**Today's Progress**: Finally finished Wikipedia Viewer's functionality for FreeCodeCamp. I will be adding CSS and changing the 		      design tomorrow. 
+
 ### DAYS SKIPPED SO FAR : 17
