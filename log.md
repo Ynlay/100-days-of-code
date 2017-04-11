@@ -377,4 +377,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Finally finished Wikipedia Viewer's functionality for FreeCodeCamp. I will be adding CSS and changing the 		      design tomorrow. 
 
+### Day 81: April 11
+
+**Today's Progress**: Changed the design of my Wikipedia Viewer for FreeCodeCamp. I will be adding animations and bootstrap 			      tomorrow!
+
 ### DAYS SKIPPED SO FAR : 17
