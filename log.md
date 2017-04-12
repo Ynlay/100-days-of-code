@@ -381,4 +381,10 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Changed the design of my Wikipedia Viewer for FreeCodeCamp. I will be adding animations and bootstrap 			      tomorrow!
 
+### Day 82: April 12
+
+**Today's Progress**: Finished with Wikipedia Viewer for FreeCodeCamp. Might return to it in the future to give it some better 			      animations. Continued Keylogger project with C++ at Udemy.
+
+**LINK**: http://codepen.io/gazharan/full/OpzrPx/
+
 ### DAYS SKIPPED SO FAR : 17
