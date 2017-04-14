@@ -387,4 +387,12 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **LINK**: http://codepen.io/gazharan/full/OpzrPx/
 
+### Day 83: April 13
+
+**Today's Progress**: Worked a ton more on keylogger with C++ project at Udemy and even had enough time for a movie left! Also 			      got to use some powershell.
+
+### Day 84: April 14
+
+**Today's Progress**: Signed into WeekOfCode at Hackerrank and started solving the problems. Solved 1 out of 7 so far!
+
 ### DAYS SKIPPED SO FAR : 17
