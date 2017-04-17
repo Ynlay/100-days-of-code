@@ -395,4 +395,12 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Signed into WeekOfCode at Hackerrank and started solving the problems. Solved 1 out of 7 so far!
 
-### DAYS SKIPPED SO FAR : 17
+### Day 85: April 16(skipped a day)
+
+**Today's Progress**: Completed a lot of challenges at hackerrank, failed a lot at week of code but sometimes failure			      	      can be progress.
+
+### Day 86: April 17
+
+**Today's Progress**: Continued working on the keylogger project at udemy, i'll be debugging and testing it tomorrow, pretty 			      excited!
+
+### DAYS SKIPPED SO FAR : 18
