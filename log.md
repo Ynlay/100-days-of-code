@@ -407,4 +407,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Finished the keylogger project at udemy and tested it. Works really well and learned a lot of things from 		      it!!
 
+### Day 88: April 19
+
+**Today's Progress**: Day 88: taking it easy after the keylogger project at udemy. Went back to solving freeCodeCamp algorithm 			      challenges!!
+
 ### DAYS SKIPPED SO FAR : 18
