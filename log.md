@@ -409,6 +409,6 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 ### Day 88: April 19
 
-**Today's Progress**: Day 88: taking it easy after the keylogger project at udemy. Went back to solving freeCodeCamp algorithm 			      challenges!!
+**Today's Progress**: Taking it easy after the keylogger project at udemy. Went back to solving freeCodeCamp algorithm 			      	      challenges!!
 
 ### DAYS SKIPPED SO FAR : 18
