@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-# My Twitter : https://twitter.com/Gazharan_
+# My Twitter : https://twitter.com/Ynlay_
  
 I'm publicly committing to the 100DaysOfCode Challenge **starting January 3, 2017**. 
 Join me! 
