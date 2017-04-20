@@ -411,4 +411,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Taking it easy after the keylogger project at udemy. Went back to solving freeCodeCamp algorithm 			      	      challenges!!
 
+### Day 89: April 20
+
+**Today's Progress**: Revised linux commands, took a look at Git bash tutorials, officially finished with intermediate javascipt challenges at freecodecamp.
+
 ### DAYS SKIPPED SO FAR : 18
