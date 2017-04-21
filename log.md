@@ -413,6 +413,10 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 ### Day 89: April 20
 
-**Today's Progress**: Revised linux commands, took a look at Git bash tutorials, officially finished with intermediate javascipt challenges at freecodecamp.
+**Today's Progress**: Revised linux commands, took a look at Git bash tutorials, officially finished with intermediate javascipt 		       challenges at freecodecamp.
+
+### Day 90: April 21
+
+**Today's Progress**: Started working with C and linux on a virtual machine again, learned about malloc and forks, pretty weird 		      but im getting the hang of it.
 
 ### DAYS SKIPPED SO FAR : 18
