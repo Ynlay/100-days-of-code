@@ -423,4 +423,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Babysteps into creating a shell with C in linux, also started looking into Unity again, watched a few 			      tutorials and started getting used to the ui.
 
+### Day 92: April 23
+
+**Today's Progress**: Worked a lot more on the shell project with C in linux. Still trying to wrap my head around pointers and memory allocation but getting there.
+
 ### DAYS SKIPPED SO FAR : 18
