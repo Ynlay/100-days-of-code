@@ -425,6 +425,10 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 ### Day 92: April 23
 
-**Today's Progress**: Worked a lot more on the shell project with C in linux. Still trying to wrap my head around pointers and memory allocation but getting there.
+**Today's Progress**: Worked a lot more on the shell project with C in linux. Still trying to wrap my head around pointers and 			      memory allocation but getting there.
+
+### Day 93: April 24
+
+**Today's Progress**: Took a break from the Shell project and solved SQL problems at HackerRank.
 
 ### DAYS SKIPPED SO FAR : 18
