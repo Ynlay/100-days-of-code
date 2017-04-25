@@ -431,4 +431,4 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Took a break from the Shell project and solved SQL problems at HackerRank.
 
-### DAYS SKIPPED SO FAR : 18
+### DAYS SKIPPED SO FAR : 19
