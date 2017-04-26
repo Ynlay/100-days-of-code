@@ -431,4 +431,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Took a break from the Shell project and solved SQL problems at HackerRank.
 
+### Day 94: April 25
+
+**Today's Progress**: Started a tutorial on how to build a Survival Shooter on Unity!!!
+
 ### DAYS SKIPPED SO FAR : 19
