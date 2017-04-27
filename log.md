@@ -435,4 +435,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Started a tutorial on how to build a Survival Shooter on Unity!!!
 
+### Day 95: April 27
+
+**Today's Progress**: Studied a heck of a lot more SQL and spent a lot of hours trying to solve the challenges for the hackerrank competition!!!
+
 ### DAYS SKIPPED SO FAR : 19
