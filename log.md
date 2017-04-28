@@ -439,4 +439,4 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Studied a heck of a lot more SQL and spent a lot of hours trying to solve the challenges for the hackerrank competition!!!
 
-### DAYS SKIPPED SO FAR : 19
+### DAYS SKIPPED SO FAR : 20
