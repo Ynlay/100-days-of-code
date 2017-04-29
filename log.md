@@ -439,4 +439,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: Studied a heck of a lot more SQL and spent a lot of hours trying to solve the challenges for the hackerrank competition!!!
 
+### Day 96: April 29(skipped a day)
+
+**Today's Progress**: After being successful with the Capture The Flag challenge at hackerrank i took a day off and today i 
+		      worked on the next hackerrank competition (world codesprint) and spent a lot of time trying to solve the 			      challenges
 ### DAYS SKIPPED SO FAR : 20
