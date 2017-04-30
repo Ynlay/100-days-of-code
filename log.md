@@ -443,4 +443,8 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 
 **Today's Progress**: After being successful with the Capture The Flag challenge at hackerrank i took a day off and today i 
 		      worked on the next hackerrank competition (world codesprint) and spent a lot of time trying to solve the 			      challenges
+
+### Day 97: April 30
+
+**Today's Progress**: Begun tutorials on udemy for Unity. Started creating a simple 2D game. Pretty exciting.
 ### DAYS SKIPPED SO FAR : 20
