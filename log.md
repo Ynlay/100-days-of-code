@@ -447,4 +447,11 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 ### Day 97: April 30
 
 **Today's Progress**: Begun tutorials on udemy for Unity. Started creating a simple 2D game. Pretty exciting.
+
+### Day 98: May 1
+
+**Today's Progress**: Finished a simple 2D game and decided to look up tutorials for 3D games as well. I think i really like
+		      game development and it is something that i will stick with and try to improve as much i possibly can in
+		      it.
+		      
 ### DAYS SKIPPED SO FAR : 20
