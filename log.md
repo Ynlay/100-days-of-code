@@ -454,4 +454,9 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 		      game development and it is something that i will stick with and try to improve as much i possibly can in
 		      it.
 		      
-### DAYS SKIPPED SO FAR : 20
+### Day 99: May 3
+
+**Today's Progress**: Continued learning about unity. Looked up about pixel art and even animating. So many things to learn so
+		      little time!
+		      
+### DAYS SKIPPED SO FAR : 21
