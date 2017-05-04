@@ -454,9 +454,13 @@ https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-u
 		      game development and it is something that i will stick with and try to improve as much i possibly can in
 		      it.
 		      
-### Day 99: May 3
+### Day 99: May 3(skipped a day)
 
 **Today's Progress**: Continued learning about unity. Looked up about pixel art and even animating. So many things to learn so
 		      little time!
-		      
+
+### Day 100: May 4
+
+**Today's Progress**: Finally reached day 100. I feel like i have learned a ton of new stuff. Today i worked on that Weather application in java i hadn't touched in a while. Learned about JUnit test cases and studied more about UML and diagrams
+
 ### DAYS SKIPPED SO FAR : 21
